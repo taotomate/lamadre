@@ -1,26 +1,26 @@
 # ¿quien es carlos?
 ## Últimas veces no visto
 
-1.Barcelona
+1. Barcelona
 
-..1.Bar
+	..1. Bar
 
-..2.Pool
+	..2. Pool
 
-2.Cordoba
+2. Cordoba
 
 
 ## Hipotesis
 
-*Es Julio Lopez
+* Es Julio Lopez
 
-*Es Barnie
+* Es Barnie
 
-#Caracteristicas
+# Caracteristicas
 
-|**prenda**|**color**|
+| **prenda** | **color** |
 
-|pantalon|azul|
+| pantalon | azul |
 
-|gorra|roja|
+| gorra | roja |
 
